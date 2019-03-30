@@ -1,0 +1,16 @@
+body{background-color: lightgray; margin: 0px;}
+.container div{/*border: 10px outset red;*/ text-align: center; background-color: #fff; padding: 0px; }
+.container{display: flex; background-color: #013648}
+
+.container h1{color: white;
+	margin: 10px;
+	flex: 1;}
+
+#parent{border-bottom: 1px solid #013648;display: flex;
+		text-align: center;}
+
+#top{color: #013648;}
+
+.center{text-align: center;}
+img{border: 2px dotted #013648; border-radius: 10px; width: 60%; padding: 10px}
+#parent div{ margin: 10px; background-color: #b5b4b4; padding: 0px;}
